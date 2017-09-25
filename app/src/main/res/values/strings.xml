@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ECG</string>
+    <string name="pausar">PAUSAR</string>
+    <string name="reanudar">REANUDAR</string>
+    <string name="action_quit">Salir</string>
+    <string name="action_connect">Conectar</string>
+    <string name="action_disconnect">Desconectar</string>
+    <string name="empezar">Empezar</string>
+    <string name="buscar">Buscar</string>
+    <string name="paired_devices">Dispositivos encontrados</string>
+</resources>
